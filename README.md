@@ -11,7 +11,7 @@ A simple electron app that gives access to the YouTube TV interface similar to t
 
 ## Installation 
 ### Windows + Linux
-* Download the Executable or AppImage from releases
+* Download the Executable from releases
 * Run downloaded file
 ### Steam Deck (Gaming Mode)
 * Enter Desktop Mode
