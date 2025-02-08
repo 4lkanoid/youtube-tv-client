@@ -10,24 +10,15 @@ A simple electron app that gives access to the YouTube TV interface similar to t
 
 
 ## Installation 
-### Windows + Linux
+### Windows
 * Download the Executable from releases
 * Run downloaded file
-### Steam Deck (Gaming Mode)
-* Enter Desktop Mode
-* Download AppImage from releases
-* Move file to desired directory
-* Right click file
-* Click ```properties``` and go to ```permissions``` tab
-* Check ```Is Executable``` is ticked and click ```OK```
-* Right click again, now select ```Add to Steam```
-* Open Steam, find the application
-* Set launch parameter to ```--no-sandbox```
-* Launch Game Mode
-* Go to the YouTube non steam game
-* Select Community Control Layout ```YouTube TV Client```
-* You can now launch the app and navigate with controller
-* (Optional) Add artwork using ```SteamGridDB```
+### Optional - Steam (Gaming Mode)
+* Add the client as non steam game
+* Name it ```Youtube (Website)```
+* Select Community Control Layout ```Keyboard (WASD) and Mouse```
+* You can now launch the app and navigate with a controller
+* Add artwork using ```SteamGridDB``` (Steam ROM Manager for ease of use)
 
 # Build from source
 * Clone git repository
