@@ -13,7 +13,7 @@ function createWindow() {
     win.setMenu(null);
 
     win.loadURL('https://youtube.com/tv', {
-        userAgent: 'Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)'
+        userAgent: 'Mozilla/5.0 (PS4; Leanback Shell) Cobalt/24.lts.13.1032728-gold v8/8.8.278.8-jit gles Starboard/14, SystemIntegratorName_PS4_ChipsetModelNumber_2024/FirmwareVersion (Sony, PS4, Wired)'
     });
 
     // setting zoom 50% to enable higher resolutions. has no effect on the applications UI.
