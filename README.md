@@ -3,8 +3,8 @@
 A simple electron app that gives access to the YouTube TV interface similar to the AndroidTV App. This uses a different user agent that enables 4K 60 Fps playblack and HD Thumbnails
 
 <p>
-    <img src="https://files.horizon.pics/f43295ae-25dc-4f19-a552-cf6de7214813?a=441&mime1=image&mime2=jpeg" width="49%" style="margin-right:10px;">
-    <img src="https://files.horizon.pics/d5c56ba2-cfb2-460f-9cdb-5f77e9a77c92?a=441&mime1=image&mime2=jpeg" width="49%">
+    <img src="https://files.horizon.pics/f43295ae-25dc-4f19-a552-cf6de7214813?a=441&mime1=image&mime2=jpeg">
+    <img src="https://files.horizon.pics/d5c56ba2-cfb2-460f-9cdb-5f77e9a77c92?a=441&mime1=image&mime2=jpeg">
 </p>
 
 
